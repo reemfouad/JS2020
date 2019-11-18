@@ -1,0 +1,146 @@
+body{
+	margin: 0;
+}
+#headermain{
+	width: 100%;
+	height: 100px;
+	line-height: 50px;
+}
+.navbar-brand{
+	letter-spacing: 2px;
+}
+.jumbotron{
+	background-image: url("../img/big2.webp");
+	background-size: cover;
+}
+#con{
+	color: white;
+	text-align: center;
+	margin-top: 90px;
+	height: 350px;
+}
+#con h1{
+	font-size: 40px;
+}
+#form1{
+	margin-top: 30px;
+	background-color: white;
+
+    width: 650px;
+    margin-left: 120px;
+	
+	padding: 20px;
+}
+#but{
+	background: #11cbd7;
+	border: none;
+}
+#but:havor{
+	background: white;
+	color:#11cbd7;
+}
+#s2{
+	font-size: 45px;
+	color:#11cbd7;
+	font-weight: 300; 
+	width: 400px;
+}
+#f1{
+	font-family: rubik,arial,sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 2;
+    color: gray;
+    margin-bottom: 20px;
+
+}
+#con3{
+	margin-top: 100px;
+	margin-bottom: 150px;
+}
+.font{font-size: 50px;
+
+
+}
+.heading{
+	font-family: rubik,arial,sans-serif;
+	font-size: 20px;
+	margin-bottom: 8px;
+	
+  
+}
+.i{
+	color: #808080;
+}
+#con6{
+	width: 450px;
+	padding: 15px;
+	margin-left: 80px;
+	text-align: justify;
+}
+#he1{width: 370px;
+	height: 50px;
+	font-family: rubik,arial,sans-serif;
+	font-size: 45px;
+	color: #11cbd7;
+}
+#p4{width: 370px;
+	height: 100px;
+	color: #808080;
+	margin-bottom: 15px;
+}
+.num{
+	font-size: 40px;
+    line-height: 1.5;
+    color: #11cbd7;
+}
+.pr{
+	font-family: rubik,arial,sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #ccc;
+}
+#he2{
+	font-size: 45px;
+	color: #11cbd7;
+	text-align: center;
+
+}
+#p5{color: #808080;
+	line-height: 30px;
+
+}
+#bt{background: #11cbd7;
+	border: none;
+
+}
+.f{
+	color:#11cbd7; 
+}
+.f2{
+	background: #11cbd7;
+    border-radius: 4px;
+    box-shadow: 0;
+    padding: 1px 10px;
+    color: #fff; 
+}
+#con7{
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+.font2{
+	font-size: 12px;
+	color: #808080;
+}
+#q{background: #11cbd7;
+	color: white;
+	padding: 30px;
+}
+#bas{
+	background: #11cbd7;
+	color: white;
+	
+}
+.ab{
+	color: #11cbd7;
+}
